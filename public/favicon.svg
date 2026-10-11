@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <circle cx="100" cy="100" r="98" fill="#FFC629" />
+  <!-- Silhouette head & hair -->
+  <path d="M72 45 C75 35 90 32 105 32 C120 32 135 38 138 52 C142 62 138 78 132 85 C136 90 138 100 132 110 C124 125 110 135 95 136 C80 136 70 125 66 112 C62 98 64 85 68 76 C65 65 68 52 72 45 Z" fill="#141414" />
+  <!-- Sunglasses -->
+  <path d="M74 72 Q82 66 92 72 Q93 84 82 86 Q72 84 74 72 Z" fill="#FFC629" />
+  <path d="M76 74 Q82 70 90 74 Q91 82 82 84 Q75 82 76 74 Z" fill="#141414" />
+  <path d="M96 74 L104 74" stroke="#141414" stroke-width="3" />
+  <path d="M106 72 Q116 66 126 72 Q128 84 116 86 Q106 84 106 72 Z" fill="#FFC629" />
+  <path d="M108 74 Q116 70 124 74 Q125 82 116 84 Q108 82 108 74 Z" fill="#141414" />
+  <!-- Pipe and smoke -->
+  <path d="M88 114 Q84 128 76 132 Q72 134 68 126" stroke="#141414" stroke-width="5" fill="none" stroke-linecap="round" />
+  <path d="M68 126 C66 122 74 120 74 126 C74 132 66 132 68 126 Z" fill="#141414" />
+  <path d="M72 118 Q68 110 74 104 Q78 98 72 90" stroke="#141414" stroke-width="3" fill="none" stroke-linecap="round" />
+  <!-- Wordmark box -->
+  <rect x="35" y="148" width="65" height="26" fill="#141414" />
+  <text x="67" y="166" fill="#FFF6E0" font-family="'Anton', sans-serif" font-size="14" font-weight="bold" text-anchor="middle">Dhuan &amp;</text>
+  <rect x="100" y="148" width="65" height="26" fill="#FFFFFF" stroke="#141414" stroke-width="2" />
+  <text x="132" y="166" fill="#141414" font-family="'Anton', sans-serif" font-size="14" font-weight="bold" text-anchor="middle">Dukhan</text>
+</svg>
